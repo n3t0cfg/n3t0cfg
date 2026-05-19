@@ -29,16 +29,6 @@ For the last several years I have worked at **Zumba**, helping scale platforms u
 
 I care about **Domain-Driven Design**, **Clean Architecture**, and team practices that let people move quickly without making the codebase harder to live in. I also treat AI-assisted development as a core engineering skill, using tools like Cursor, GitHub Copilot, and Claude Code to improve delivery, code review, onboarding, and architecture work.
 
-## What I Work On
-
-- Full-stack product engineering with PHP, CakePHP, Python, TypeScript, Vue.js, React Native, MySQL, Redis, and Docker.
-- Consumer checkout, subscriptions, retention flows, billing lifecycle, A/B testing, and Stripe plan management.
-- Zero-downtime migrations, including OAuth token storage from MongoDB to Redis with dual-read/write rollout.
-- Partner integrations with Wellhub and Noom, including custom OAuth grants, webhook pipelines, and subscription lifecycle handling.
-- Mobile API architecture for profiles, workouts, scheduling, reminders, fitness stats, Apple Watch ingestion, and gamification.
-- AI-assisted engineering workflows, including custom Cursor skills and agents for Jira-driven development, PR review, and PR comment handling.
-- Mentoring, onboarding, code review, and architecture practices that help teams ship with confidence.
-
 ## Technical Range
 
 **Architecture and backend:** System Architecture, DDD, Clean Architecture, API Development, OAuth, Back-End Web Development, Unit Testing, PHPUnit, Continuous Delivery, Code Review.
@@ -76,27 +66,36 @@ I care about **Domain-Driven Design**, **Clean Architecture**, and team practice
 ## GitHub Pulse
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n3t0cfg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ernesto's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3t0cfg&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ernesto's most used languages">
+  <a href="https://github.com/n3t0cfg">Overview</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/n3t0cfg?tab=repositories">Repositories</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/n3t0cfg/n3t0cfg/actions/workflows/contribution-snake.yml">Contribution snake workflow</a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=n3t0cfg&hide_border=true&theme=transparent" alt="Ernesto's GitHub streak">
+  <a href="https://github.com/n3t0cfg">
+    <img src="https://streak-stats.demolab.com?user=n3t0cfg&hide_border=true&theme=transparent" alt="Ernesto's GitHub streak">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3t0cfg&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Ernesto's GitHub contribution activity graph">
+  <a href="https://github.com/n3t0cfg">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3t0cfg&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Ernesto's GitHub contribution activity graph">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n3t0cfg&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="Ernesto's GitHub trophies">
+  <a href="https://github.com/n3t0cfg?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=n3t0cfg&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="Ernesto's GitHub trophies">
+  </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://github.com/n3t0cfg/n3t0cfg/actions/workflows/contribution-snake.yml">
+    <img src="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation">
+  </a>
+</p>
 
 ## Languages
 
