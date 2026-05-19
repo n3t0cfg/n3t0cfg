@@ -66,11 +66,7 @@ I care about **Domain-Driven Design**, **Clean Architecture**, and team practice
 ## GitHub Pulse
 
 <p align="center">
-  <a href="https://github.com/n3t0cfg">Overview</a>
-  &nbsp;|&nbsp;
   <a href="https://github.com/n3t0cfg?tab=repositories">Repositories</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/n3t0cfg/n3t0cfg/actions/workflows/contribution-snake.yml">Contribution snake workflow</a>
 </p>
 
 <p align="center">
@@ -92,9 +88,7 @@ I care about **Domain-Driven Design**, **Clean Architecture**, and team practice
 </p>
 
 <p align="center">
-  <a href="https://github.com/n3t0cfg/n3t0cfg/actions/workflows/contribution-snake.yml">
-    <img src="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation">
-  </a>
+  <img src="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation">
 </p>
 
 ## Languages
