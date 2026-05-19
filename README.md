@@ -73,13 +73,32 @@ I care about **Domain-Driven Design**, **Clean Architecture**, and team practice
 - Developer experience, internal tools, and AI-native engineering workflows.
 - Maintainable systems for subscriptions, integrations, and consumer mobile products.
 
+## GitHub Pulse
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=n3t0cfg&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Ernesto's GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3t0cfg&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Ernesto's most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=n3t0cfg&hide_border=true&theme=transparent" alt="Ernesto's GitHub streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n3t0cfg&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Ernesto's GitHub contribution activity graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=n3t0cfg&theme=flat&no-frame=true&margin-w=8&row=1&column=6" alt="Ernesto's GitHub trophies">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/n3t0cfg/n3t0cfg/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Languages
 
 - Spanish: native or bilingual
 - English: full professional proficiency
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3t0cfg&show_icons=true&hide_border=true&theme=transparent" alt="Ernesto's GitHub stats">
-</p>
